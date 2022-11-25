@@ -18,28 +18,32 @@ html {
 }
 
 /* STYLES */
-body {
+main {
+    min-height: 100vh;
     background-color: var(--light-gray);
-    font-family: 'Outfit', sans-serif;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
 }
 
 div {
     background-color: var(--white);
-    border-radius: 20px;
-    margin: 5rem auto;
-    max-width: 300px;
+    border-radius: 1.25rem;
+    max-width: 18.75rem;
     padding: 1rem;
 }
 
 img {
-    border-radius: 10px;
+    border-radius: 0.625rem;
     max-width: 100%;
 }
 
 h1, p {
-    margin: 1rem;
-    padding: 0.5rem;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    margin: 1rem 0rem;
+    padding: 0.5rem;    
 }
 
 h1 {
