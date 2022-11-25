@@ -11,12 +11,12 @@ To build the QR code component so that it looks as close as possible to the desi
 * HTML5  
 * CSS
 
-### Solution  
-[Live page URL](https://laurahai.github.io/QR-code/)
-[Frontend Mentor submission](https://www.frontendmentor.io/solutions/qr-code-page-using-basic-html-and-css-XBb_QVbGbN)
+### Solution 
+* [Live page URL](https://laurahai.github.io/QR-code/)
+* [Frontend Mentor submission](https://www.frontendmentor.io/solutions/qr-code-page-using-basic-html-and-css-XBb_QVbGbN)
 
-### Comments  
-This was the first Frontend Mentor challenge that I did after learning HTML and CSS for one week with [freeCodeCamp](https://www.freecodecamp.org/).
+### Comments
+This was the first Frontend Mentor challenge that I did after learning HTML and CSS for one week with [freeCodeCamp](https://www.freecodecamp.org/). The project was updated on Nov 25, 2022.
 
 
 
